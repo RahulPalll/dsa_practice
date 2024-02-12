@@ -11,3 +11,4 @@ function sumOfNaturalNumber(num) {
 console.log(sumOfNaturalNumber(5));
 console.log(sumOfNaturalNumber(10));
 console.log(sumOfNaturalNumber(8));
+console.log(sumOfNaturalNumber(8));
